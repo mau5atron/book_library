@@ -50,7 +50,6 @@ group :development, :test do
   # gems needed
   gem 'better_errors'
   gem 'guard'
-  gem 'guard-livereload'
   # gems needed
 end
 
